@@ -1,5 +1,4 @@
 package com.example.gpt.repository;
-
 import com.example.gpt.entity.ChatMessage;
 import org.springframework.data.repository.CrudRepository;
 

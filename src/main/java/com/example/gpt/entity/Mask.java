@@ -9,9 +9,9 @@ public class Mask {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    private Long id;//Ãæ¾ßºÅ
 
-    private String avatar;
+    private String avatar;//Í·Ïñ
 
     private String name;
 
